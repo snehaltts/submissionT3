@@ -1,6 +1,6 @@
 #include <iostream>
 #include <math.h>
-#include "binToOct.h"
+#include "binToOctal.h"
 #include "checkBinary.h"
 #include "decimalToBinary.h"
 #include "binaryToDecimal.h"
