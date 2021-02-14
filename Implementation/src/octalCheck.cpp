@@ -4,7 +4,7 @@ using namespace std;
 int checkOctal(int n)
 {
  
-    int x,j,r;
+    int j,r;
     bool checkStatus;
     for(j=0;j<1;j++)
     {
