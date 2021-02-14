@@ -1,4 +1,4 @@
-   **Conversion Calculator**
+   **Number Conversion Calculator**
 
 **What**-Converting a number written in binary to a number system with another base like decimal and also converting a decimal number to a binary and then again convert into binary to octal and octal to binary.
 
