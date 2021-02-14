@@ -4,8 +4,7 @@ using namespace std;
 int checkOctal(int n)
 {
  
-    int x,j,r,dec=0;
-    long int bin=0;
+    int x,j,r;
     bool checkStatus;
     for(j=0;j<1;j++)
     {
@@ -14,9 +13,4 @@ int checkOctal(int n)
         {
             return false;
         }
-        // else
-        // {
-        //     return true;
-        // }
-}
 }
