@@ -40,7 +40,11 @@ Name                           |   PS No.  |         Contribution
 ![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/sequence%20diagram1.PNG)
 
 ## Use Case Design
-![alt text](![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/sequence%20diagram1.PNG)
+![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/Use%20Case.PNG)
+
+## State Machine Design
+![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/State_diagram.PNG)
+
 
 ## Test Summary
 
