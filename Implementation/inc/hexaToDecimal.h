@@ -15,6 +15,10 @@ int hexaDecimalToDecimal(char n[]) {
          tempVar += (n[i] - 55)*base;
          base = base*16;
       }
-   }
+      else if(n[i]>='a' &&  n[i]<='f')
+      {
+         tempVar += (n[i] - 87)*base;
+         base = base*16;
+      }
    return tempVar;
 }
