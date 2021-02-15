@@ -6,7 +6,7 @@
 void test_checkOctal_basic(void)
 {
 
-	TEST_ASSERT_EQUAL( 25000, checkOctal(500000));
+	TEST_ASSERT_EQUAL( 1, checkOctal(077));
 }
 
 int test_checkOctal(void)
