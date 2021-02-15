@@ -6,7 +6,7 @@
 void test_octalToBinary_basic(void)
 {
 
-	TEST_ASSERT_EQUAL( 25000, octalToBinary(500000));
+	TEST_ASSERT_EQUAL( 111111, octalToBinary(077));
 }
 
 int test_octalToBinary(void)
