@@ -25,6 +25,19 @@ Name                           |   PS No.  |         Contribution
 `4) Kuchipudi Bhagyasree`      | 99003664  |     SWOT analysis, Binary to Decimal    
 `5) Yash Chhipa`               | 99003666  |     Feasibility Study, Binary to Octal, Test cases, Unit Testing
 
+# High Level Design
+
+## Class Diagram
+
+![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/Class_Diagram.PNG)
+
+
+
+
+# Low Level Design
+
+## Sequence Diagram 
+![alt text](https://github.com/99003612/SDLC_LTTS/blob/main/SequenceDiagram1.png)
 
 ## Test Summary
 
