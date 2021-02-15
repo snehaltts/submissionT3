@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int checkOctal(int n)
+int decimalCheck(int n)
 {
  
     int x,j,r,dec=0;
@@ -10,7 +10,7 @@ int checkOctal(int n)
     for(j=0;j<1;j++)
     {
         r=n%10;
-        if(r>7)
+        if(r>9)
         {
             return false;
         }

@@ -8,6 +8,7 @@
 #include "inc/hexaToDecimal.h"
 #include "inc/menu.h"
 #include "inc/octalCheck.h"
+#include "inc/decimalCheck.h"
 using namespace std;
 
 
@@ -52,11 +53,21 @@ int main()
 
     case 2:
         int decimalToBinaryNumber, resultTwo;
+        bool decimalChcekStatus;
         cout << "You have chosen decimal to binary Conversion" << endl;
         cout << "Enter a decimal number to convert" << endl;
         cin >> decimalToBinaryNumber;
+        decimalChcekStatus = decimalCheck(decimalToBinaryNumber);
+        if(decimalChcekStatus)
+        {
         resultTwo = decimalToBinary(decimalToBinaryNumber);
         cout << "Conversion Done respective binary number is " << resultTwo;
+        }
+        else
+        {
+                cout << "Invalid Decimal Number" << endl;
+        }
+      
         break;
         
     case 3:

@@ -22,3 +22,4 @@ int hexaDecimalToDecimal(char n[]) {
       }
    return tempVar;
 }
+}
