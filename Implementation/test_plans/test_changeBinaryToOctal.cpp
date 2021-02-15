@@ -6,7 +6,7 @@
 void test_changeBinaryToOctal_basic(void)
 {
 
-	TEST_ASSERT_EQUAL( 25000, changeBinaryToOctal(500000));
+	TEST_ASSERT_EQUAL( 16, changeBinaryToOctal(1110));
 }
 
 int test_changeBinaryToOctal(void)
