@@ -6,7 +6,7 @@
 void test_decimalToBinary_basic(void)
 {
 
-	TEST_ASSERT_EQUAL( 25000, decimalToBinary(500000));
+	TEST_ASSERT_EQUAL( 1010, decimalToBinary(10));
 }
 
 int test_decimalToBinary(void)
