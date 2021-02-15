@@ -6,7 +6,7 @@
 void test_hexaDecimalToDecimal_basic(void)
 {
 
-	TEST_ASSERT_EQUAL( 25000, hexaDecimalToDecimal(500000));
+	TEST_ASSERT_EQUAL( 2783, hexaDecimalToDecimal(ADF));
 }
 
 int test_hexaDecimalToDecimal(void)
