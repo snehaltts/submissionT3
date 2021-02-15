@@ -1,13 +1,13 @@
 #include <iostream>
 #include <math.h>
-#include "binToOctal.h"
-#include "checkBinary.h"
-#include "decimalToBinary.h"
-#include "binaryToDecimal.h"
-#include "octalToBinary.h"
-#include "hexaToDecimal.h"
-#include "menu.h"
-#include "octalCheck.h"
+#include "inc/binToOctal.h"
+#include "inc/checkBinary.h"
+#include "inc/decimalToBinary.h"
+#include "inc/binaryToDecimal.h"
+#include "inc/octalToBinary.h"
+#include "inc/hexaToDecimal.h"
+#include "inc/menu.h"
+#include "inc/octalCheck.h"
 using namespace std;
 
 
@@ -37,15 +37,15 @@ int main()
         {
             cout << "Invalid Binary Number" << endl;
             
-            while (1)
-            {
-                cout << "Try Again" << endl;
-                cin >> binaryToDecimalNumber;
-                if (checkBinary(&binaryToDecimalNumber))
-                break;
-            }
-            resultOne = binaryToDecimal(binaryToDecimalNumber);
-            cout << "Conversion Done " << resultOne;
+//             while (1)
+//             {
+//                 cout << "Try Again" << endl;
+//                 cin >> binaryToDecimalNumber;
+//                 if (checkBinary(&binaryToDecimalNumber))
+//                 break;
+//             }
+//             resultOne = binaryToDecimal(binaryToDecimalNumber);
+//             cout << "Conversion Done " << resultOne;
         }
         
         break;
@@ -76,15 +76,15 @@ int main()
            
             cout << "Invalid Binary Number" << endl;
             
-             while(1)
-             {
-                cout << "Try Again" << endl;
-                 cout << "Enter a binary number to convert" << endl;
-                cin >> binaryNumber;
-                if (checkBinary(&binaryNumber))
-                break;
-             }
-            cout << "Conversion Done " << changeBinaryToOctal(binaryNumber);
+//              while(1)
+//              {
+//                 cout << "Try Again" << endl;
+//                  cout << "Enter a binary number to convert" << endl;
+//                 cin >> binaryNumber;
+//                 if (checkBinary(&binaryNumber))
+//                 break;
+//              }
+//             cout << "Conversion Done " << changeBinaryToOctal(binaryNumber);
             
         }
         break;
@@ -104,15 +104,15 @@ int main()
         else
         {
               cout << "Invalid Octal Number" << endl;
-                  while(1)
-             {
-                cout << "Try Again" << endl;
-                cout << "Enter a octal number to convert" << endl;
-                cin >> octalNumber;
-                if (checkOctal(octalNumber))
-                break;
-             }
-            cout << "Conversion Done " << octalToBinary(octalNumber);
+//                   while(1)
+//              {
+//                 cout << "Try Again" << endl;
+//                 cout << "Enter a octal number to convert" << endl;
+//                 cin >> octalNumber;
+//                 if (checkOctal(octalNumber))
+//                 break;
+//              }
+//             cout << "Conversion Done " << octalToBinary(octalNumber);
         }
        
         break;
