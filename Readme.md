@@ -37,7 +37,10 @@ Name                           |   PS No.  |         Contribution
 # Low Level Design
 
 ## Sequence Diagram 
-![alt text](https://github.com/99003612/SDLC_LTTS/blob/main/SequenceDiagram1.png)
+![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/sequence%20diagram1.PNG)
+
+## Use Case Design
+![alt text](![alt text](https://github.com/snehaltts/submissionT3/blob/master/Design/sequence%20diagram1.PNG)
 
 ## Test Summary
 
