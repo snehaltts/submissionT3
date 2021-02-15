@@ -7,6 +7,7 @@
 ![C/C++ CI](https://github.com/snehaltts/submissionT3/workflows/C/C++%20CI/badge.svg)
 ![Unity - Unit Testing](https://github.com/snehaltts/submissionT3/workflows/Unity%20-%20Unit%20Testing/badge.svg)
 ![Gitinspector](https://github.com/snehaltts/submissionT3/workflows/Gitinspector/badge.svg)
+
 ![Cppcheck](https://github.com/snehaltts/submissionT3/workflows/Cppcheck/badge.svg)
 ## Folder Structure
 
