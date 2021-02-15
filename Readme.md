@@ -17,13 +17,13 @@ Folder             | Description
 
 ## Contributors List
 
-Name                           |   PS No.  |         
--------------------------------|-----------|
-`1) V Sneharani Patro`         | 99003652  |     
-`2) Amlan Pattnaik`            | 99003656  |   
-`3) B Pankaj Kumar`            | 99003658  |           
-`4) Kuchipudi Bhagyasree`      | 99003664  |           
-`5) Yash Chhipa`               | 99003666  | 
+Name                           |   PS No.  |         Contribution
+-------------------------------|-----------|-----------------------
+`1) V Sneharani Patro`         | 99003652  |     UML Diagram (High level and Low Level), Hexadecimal to Decimal, CppCheck, GitInspector     
+`2) Amlan Pattnaik`            | 99003656  |     Requirement analysis (4W and H's), Decimal to Binary
+`3) B Pankaj Kumar`            | 99003658  |     UML Diagrams (Low level), Test Cases, Octal to Binary      
+`4) Kuchipudi Bhagyasree`      | 99003664  |     SWOT analysis, Binary to Decimal    
+`5) Yash Chhipa`               | 99003666  |     Feasibility Study, Binary to Octal, Test cases, Unit Testing
 
 
 ## Test Summary
